@@ -1,1 +1,1 @@
-Hier werden die gelesene Papers hochgeladen
+Hier werden die gelesenen Papers hochgeladen
