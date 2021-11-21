@@ -1,1 +1,1 @@
-Proseminar zum Thema "Reinforcement learning"
+Die Ausarbeitung zum Thema "IRL"
